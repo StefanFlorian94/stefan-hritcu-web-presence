@@ -1,2 +1,43 @@
-# stefan-hritcu-web-presence
-Stefan-Hritcu-Web-Presence is my personal full-stack platform built with Next.js and React, serving as a showcase of my work and journey as a developer. It highlights who I am, what I create, and also includes posts on selected topics, while offering visitors the chance to support my growth through donations,
+# 🌐 Stefan-Hritcu-Web-Presence
+
+This is my personal full-stack project built with **Next.js** and **React**.  
+It works as a showcase of myself as a developer, a space for sharing posts, and a platform where visitors can also support my work. 🚀  
+
+---
+
+## 📂 Project Structure
+
+### 🧩 Components
+- `components/` → All UI components.
+- `shared/` → Reusable pieces across the app (e.g. **Button**, **Modal**, **Navbar**, **Footer**).
+
+### 📐 Layout
+- `layout/` → General layout components (server components).
+- Includes **Header**, **Footer**, **Sidebar** → used across multiple pages.
+
+### ⚡ Features
+- `features/` → Contains **logic + UI** for app functionalities.
+- `auth/` → Authentication flow (login, register).
+- `admin/` → Admin panel to manage users and monitor visitor data.
+
+### 📊 Dashboard
+- `dashboard/` → UI & logic for managing content and data insights.
+
+### 🪝 Hooks
+- `hooks/` → Custom React hooks for shared logic.
+
+### 🛠️ Utils
+- `utils/` → Helper functions and common utilities.
+
+### 🔄 Redux
+- `redux/` → Global state management.
+
+---
+
+## ✨ Key Points
+- Built with **Next.js + React** ⚛️  
+- Combines **personal portfolio** + **content publishing** 📝  
+- Admin tools for monitoring and managing the platform 🔑  
+- Supports donations ❤️  
+
+---
