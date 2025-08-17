@@ -5,13 +5,6 @@ It works as a showcase of myself as a developer, a space for sharing posts, and 
 
 ---
 
-# 🌐 Stefan-Hritcu-Web-Presence
-
-This is my personal full-stack project built with **Next.js** and **React**.  
-It works as a showcase of myself as a developer, a space for sharing posts, and a platform where visitors can also support my work. 🚀  
-
----
-
 ## 🎯 Goal of the Project
 The main purpose of this project is to have **something truly mine** beyond coding itself:  
 - A personal website to **promote myself**, increase visibility, and potentially generate income 💼  
