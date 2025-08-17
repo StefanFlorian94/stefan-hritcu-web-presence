@@ -68,10 +68,9 @@ The project is aimed at **anyone with an interest in technology**:
 
 ---
 
-## ✨ Key Points
-- Built with **Next.js + React** ⚛️  
-- Combines **personal portfolio** + **content publishing** 📝  
-- Admin tools for monitoring and managing the platform 🔑  
-- Supports donations ❤️  
+## 📬 Contact & Links
 
----
+- 🌐 [Portfolio Website](https://hritcu-personal-portfolio.netlify.app/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/stefan-florian-hritcu-ba615431b/)  
+- 📧 Email: **official.stefanmail@gmail.com**  
+
