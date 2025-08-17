@@ -1,7 +1,7 @@
 # 🌐 Stefan-Hritcu-Web-Presence
-
-This is my personal full-stack project built with **Next.js** and **React**.  
-It works as a showcase of myself as a developer, a space for sharing posts, and a platform where visitors can also support my work. 🚀  
+This is my personal full-stack project built with **Next.js** and **React**, designed as a complete **web presence and portfolio**.  
+It serves as my personal showcase as a developer, a place to share posts on **Computer Science, AI, Programming, and IT education**, while also promoting myself and my work.  
+Visitors can support me through donations, and the platform is meant to grow into a **secure, fully functional full-stack site**, with the **backend implementation planned for the final development phase**. 🚀  
 
 ---
 
