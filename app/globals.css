@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+
+:root {
+  --background:  #302d2d;
+  --foreground: #ffffff;
+}
+
+body {
+  font-family: 'Share Tech Mono', monospace;
+  background: var(--background);
+  color: var(--foreground);
+}
