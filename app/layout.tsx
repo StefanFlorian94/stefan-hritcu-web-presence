@@ -1,4 +1,6 @@
+import CloseSidebar from "./Compontens/Header/CloseSidebar";
 import Header from "./Compontens/Header/Header";
+import Sidebar from "./Compontens/Header/Sidebar";
 import "./globals.css";
 
 export default function RootLayout({
@@ -9,8 +11,12 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-        <Header />
-        {children}
+        <div className="relative">
+          <Sidebar />
+          <CloseSidebar />
+          <Header />
+          {children}
+        </div>
       </body>
     </html>
   );

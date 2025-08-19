@@ -5,6 +5,11 @@ export default function Navbar() {
   return (
     <header className="bg-gray-900 text-white shadow">
       <nav className="flex justify-between items-center py-4 px-6">
+        {/* RESPONSIVE HAMBURGER BUTTON */}
+        <div className="md:hidden">
+          <GiHamburgerMenu />
+        </div>
+
         {/* Logo */}
         <Link href="/" className="text-2xl font-bold">
           OpenTech
@@ -36,11 +41,6 @@ export default function Navbar() {
         >
           Support Me 💙
         </Link>
-
-        {/* RESPONSIVE HAMBURGER BUTTON */}
-        <div className="md:hidden">
-          <GiHamburgerMenu />
-        </div>
       </nav>
     </header>
   );
