@@ -2,6 +2,7 @@ import CloseSidebar from "./Compontens/Header/CloseSidebar";
 import Header from "./Compontens/Header/Header";
 import Sidebar from "./Compontens/Header/Sidebar";
 import "./globals.css";
+import ReduxProvider from "./redux/providser";
 
 export default function RootLayout({
   children,
@@ -11,12 +12,14 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-        <div className="relative">
-          <Sidebar />
-          <CloseSidebar />
-          <Header />
-          {children}
-        </div>
+        <ReduxProvider>
+          <div className="relative">
+            <Sidebar />
+            <CloseSidebar />
+            <Header />
+            {children}
+          </div>
+        </ReduxProvider>
       </body>
     </html>
   );
